@@ -1,0 +1,10 @@
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/demo-hibernate
+    username: root
+    password: avenged7x123
+  jpa:
+    database: mysql
+    show_sql: true
+    hibernate:
+      ddl-auto: create-drop

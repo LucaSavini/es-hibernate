@@ -1,0 +1,4 @@
+com\example\eshibernate\EsHibernateApplication.class
+Entities\Class.class
+Entities\Enrollments.class
+Entities\Student.class
